@@ -18,8 +18,5 @@
  - ex) be04-1st-redteam-petproject
  - ex) be05-fin-yellowteam-finnalproject
 
-## 자율, 추가 프로젝트의 경우
-  - ex) be00-pre-minji-mytestproject
-  - ex) be00-pre-redteam-testproject
 
 
